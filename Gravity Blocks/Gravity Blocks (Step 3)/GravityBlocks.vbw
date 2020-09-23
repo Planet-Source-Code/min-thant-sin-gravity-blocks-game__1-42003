@@ -1,0 +1,7 @@
+basDisplayingBlocks = 0, 0, 242, 326, 
+basDeclarations = 22, 22, 264, 348, 
+basMovingBlocks = 66, 66, 308, 392, 
+basInitializeBlocks = 132, 132, 374, 458, 
+basFindingBlocks = 154, 154, 396, 480, 
+basRetrievingData = 88, 88, 330, 414, 
+frmPuzzle = 22, 22, 580, 368, , 22, 22, 276, 368, C

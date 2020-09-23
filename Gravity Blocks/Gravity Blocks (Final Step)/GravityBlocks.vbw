@@ -1,0 +1,12 @@
+basDisplayingBlocks = 0, 0, 0, 0, C
+basDeclarations = 0, 0, 0, 0, C
+basMovingBlocks = 0, 0, 0, 0, C
+basInitializeBlocks = 0, 0, 0, 0, C
+basMiscellaneous = 0, 0, 0, 0, C
+basFindingBlocks = 0, 0, 0, 0, C
+basCheckingGame = 0, 0, 0, 0, C
+basRetrievingData = 0, 0, 0, 0, C
+frmGameOver = 0, 0, 0, 0, C, 0, 0, 0, 0, C
+frmNewGame = 0, 0, 0, 0, C, 66, 66, 308, 392, C
+frmPuzzle = 22, 22, 580, 368, , 22, 22, 276, 368, C
+frmHowToPlay = 132, 132, 678, 458, C, 110, 110, 352, 436, C
